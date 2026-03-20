@@ -1,4 +1,4 @@
-package exercicio_if_else3;
+package exercicio_if_else;
 
 import java.util.Scanner;
 
